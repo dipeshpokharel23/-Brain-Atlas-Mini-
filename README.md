@@ -27,15 +27,10 @@ Both **Python** and **R** versions included:
 - `brain_plot.R`
 
 ---
-
-## 🎯 Why This Repo?
-Millions of people search for:
-
 - “brain atlas png”  
 - “hippocampus diagram transparent”  
 - “brain region color palette”  
 
-This repo provides clean, uniform, downloadable diagrams + code — **perfect for neuroscience papers, posters, and GitHub SEO.**
 
 ---
 
