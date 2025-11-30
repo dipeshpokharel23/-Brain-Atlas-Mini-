@@ -7,21 +7,21 @@ This repo is designed to help researchers, students, and developers quickly acce
 
 ## 📦 What's Inside?
 
-### ✔ 1. High-quality PNG/SVG diagrams
+1. High-quality PNG/SVG diagrams
 - Cortex  
 - Hippocampus  
 - Striatum  
 - Thalamus  
 - Cerebellum
 
-### ✔ 2. `brain_regions.json`
+2. `brain_regions.json`
 A structured file containing:
 - Region names  
 - Color-blind-friendly hex codes  
 - Short descriptions  
 - Coordinates for plotting  
 
-### ✔ 3. Demo plotting scripts  
+3. Demo plotting scripts  
 Both **Python** and **R** versions included:
 - `brain_plot.py`  
 - `brain_plot.R`
