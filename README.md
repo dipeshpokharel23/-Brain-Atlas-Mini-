@@ -1,5 +1,5 @@
 # 🧠 Brain-Atlas-Mini 
-A compact, SEO-optimized neuroscience toolkit containing **brain atlas regions**, **color legend**, and **ready-to-use JSON files** for plotting and data visualization.
+A compact, neuroscience toolkit containing **brain atlas regions**, **color legend**, and **ready-to-use JSON files** for plotting and data visualization.
 
 This repo is designed to help researchers, students, and developers quickly access **clean, minimalist brain-region maps** for figures, diagrams, and neuroscience apps.
 
@@ -33,8 +33,6 @@ Both **Python** and **R** versions included:
 
 
 ---
-
-## 🧬 Example: How To Load the JSON File
 
 ### **Python**
 ```python
